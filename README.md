@@ -1,7 +1,7 @@
 # sf16_ids1_project
 Data Science Project: Exploratory and Regression Analysis and Visualization of the Open Exoplanet Catalogue
 
-In the notebook "exoplanet_exploration1.ipynb" I explore the Open Exoplanet Catalogue dataset using numpy, pandas, matplotlib, seaborn, scikit-learn and other python libraries. A description of this dataset can be found at https://www.kaggle.com/mrisdal/open-exoplanet-catalogue and https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue. This is a database of all discovered extra-solar planets in csv format. The filename of the dataset is "oec.csv". It includes the characteristics of all discovered exoplanets (as well as planets in our own solar system). Data fields (columns) include planet and host star attributes, discovery methods, and date of discovery, such as:
+In the notebook "exoplanet_exploration1.ipynb" I carry out exploratory and regression analysis of the Open Exoplanet Catalogue dataset using numpy, pandas, matplotlib, seaborn, scikit-learn and other python libraries. A description of this dataset can be found at https://www.kaggle.com/mrisdal/open-exoplanet-catalogue and https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue. This is a database of all discovered extra-solar planets in csv format. The filename of the dataset is "oec.csv". It includes the characteristics of all discovered exoplanets (as well as planets in our own solar system). Data fields (columns) include planet and host star attributes, discovery methods, and date of discovery, such as:
 
 PeriodDays: The orbital period (how long it takes the planet to orbit its host star once), measured in days, of the planet around the host star or binary (double) star system.
 
